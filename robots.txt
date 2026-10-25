@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://az-tech-sol.github.io/aztechsol-publii/sitemap.xml
